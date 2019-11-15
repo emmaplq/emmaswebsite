@@ -1,34 +1,34 @@
 <!DOCTYPE html>
-<head><title>IB Program</title></head>
+<head><title>IB Programme</title></head>
   <body><center>
     <h1>International Baccalaureate</h1>
-   <h2> <a href="https://www.ibo.org/programmes/">Click Here for The IB Website</a></h2><br>
+   <h2> <a href="https://www.ibo.org/programmes/">clikez ici si vous voulez voir le site IB</a></h2><br>
     <img class="ib" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_z5oaqYl6TO6xhDadkQIYzwlyZ3dPbsOLglDzu5-QASK89vY&s" width="200px" height="200px"><br><ficaption>International Baccalaureate Logo</figcaption>
-    <h3>More than 5,000 schools so far have chosen to teach International Baccalaureate® (IB) programmes,<br> with their unique academic rigour and their emphasis on students’ personal development.<br> Those schools employ over 70,000 educators, teaching more than one million students worldwide. </h3>
+    <h3>À ce jour, plus de 5 000 écoles ont choisi d’enseigner les programmes International Baccalaureate® (IB), avec leur rigueur académique unique et leur importance pour le développement personnel des élèves. <br> Ces écoles emploient plus de 70 000 éducateurs et enseignent plus d’un million étudiants dans le monde entier. </h3>
   <br><h2><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.imgur.com%2FYMSm7ZH.jpg&imgrefurl=https%3A%2F%2Fimgur.com%2Fgallery%2FqLrFm&docid=UnM94PspuhYvrM&tbnid=NVhepjORtljvNM%3A&vet=10ahUKEwj16MXqnuvlAhXkmq0KHfvlBkEQMwhKKAwwDA..i&w=480&h=482&safe=strict&client=safari&bih=726&biw=1433&q=meme%20on%20ib&ved=0ahUKEwj16MXqnuvlAhXkmq0KHfvlBkEQMwhKKAwwDA&iact=mrc&uact=8">For More Information</a></h2><br><iframe width="560" height="315" src="https://www.youtube.com/embed/V5zuiMjbKsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> for more information</iframe></center>   <br><h2>Requirements to have an IB Diploma:</h2> 
     <ul>
-   <li>Candidates must write an research paper of up to 4,000 words in a subject from the list of approved subjects.</li>
-    <li>TOK is the only course that all diploma candidates are required to take if they want to recieve their diploma.</li>
-    <li>A CAS project must be completed as well</li>
-    </ul>
-     <h2> There are about six subjects that is in the IB program that you can choose from, giving you a wide variety of choices to choose from</h2>
+   <li>Les candidats doivent rédiger un mémoire de recherche de 4 000 mots maximum dans un sujet de la liste des sujets approuvés. </ Li>
+    <li> TOK est le seul cours que tous les candidats à un diplôme doivent suivre s'ils souhaitent obtenir leur diplôme. </ li>
+    <li> Un projet CAS doit également être terminé </ li>
+    </ ul>
+     <h2> Vous pouvez choisir parmi environ six matières du programme de l'IB, ce qui vous donne une grande variété de choix </ h2>
     <ol>
-     <li>Group 1: Studies in language and literature. <br>Taken at either SL or HL, this is generally the student's native language, with over 80 languages available. As of courses starting in summer 2011, there are two options for Language A (previously A1): Literature, which is very similar to the old course, and Language and Literature, a slightly more challenging adaptation of the former Group 2 Language A2 subjects, which have been withdrawn. The interdisciplinary subject Literature and Performance can also be taken at SL.</li>
-      <li>Group 2: Language acquisition. <br>An additional language, taken at the following levels: Language B (SL or HL), or Language ab initio (SL only). Latin and Classical Greek are also offered and may be taken at SL or HL. Following the replacement of the Language A2 option with the Group 1 Language and Literature offering for courses starting in summer 2011, the Language B syllabus was changed: the coursework is now more rigorous, and at HL, there is the compulsory study of two works of literature (although this is for comprehension rather than analysis and is only assessed through coursework). In addition, B SL students can study one of the texts as a replacement for the optional topics.</li>
-      <li>Group 3: Individuals and societies.<br> Humanities and social sciences courses offered at both SL and HL: Business Management, Economics, Geography, History, Information Technology in a Global Society (ITGS), Philosophy, Psychology, and Social and Cultural Anthropology and Global Politics. The course World Religions and the interdisciplinary course Environmental Systems and Societies are also offered at SL only.</li>
-     <li>Group 4: Experimental sciences. <br>Five courses are offered at both SL and HL: Chemistry, Biology, Physics, Design Technology and Computer Science. The course Sport, Exercise and Health Science and the interdisciplinary courses Environmental Systems and Societies and Nature of Science are offered at SL only.</li>
-      <li>Group 5: Mathematics.<br> In order of increasing difficulty, the courses offered are Mathematical Studies SL, Mathematics SL and HL, and Further Mathematics HL. The computer science elective courses were moved to Group 4 as a full course from first examinations in 2014. In 2019, major changes to the IB Math curriculum will remove all previous Math SLs and HLs and replace them with Mathematics: Applications and Interpretation SL and HL and Mathematics: Analysis and Approaches SL and HL, with Mathematics: Applications intended to be similar to Mathematical Studies and Mathematics: Analysis to be similar to Mathematics, with Further Mathematics being dropped entirely.</li>
-    <li> Group 6: The arts.<br> Courses offered at both SL and HL: Dance, foreign languages, Music, Theatre, Visual Arts, and Film. In lieu of taking a Group 6 course, students may choose to take an additional course from Groups 1–4 or either Further Mathematics HL (if already studying Mathematics HL) a Computer science course from Group 4, or a school-based syllabus course approved by IB. The interdisciplinary subject Literature and Performance is also offered, although currently only at SL.</li>
-      <li> This program is a way for both educators and students to have a better education and be more succesful in life. without this program many students would not have thesame skills they have now.
+     <li>Groupe 1: Études de langue et de littérature. <br> Prise à SL ou HL, c'est généralement la langue maternelle de l'étudiant, avec plus de 80 langues disponibles. À partir des cours commençant à l'été 2011, il existe deux options pour la langue A (anciennement A1): la littérature, très similaire à l'ancien cours, et Langue et littérature, adaptation légèrement plus exigeante des anciennes matières du groupe 2, langue A2, qui ont été retirés. Le sujet interdisciplinaire Littérature et performance peut également être choisi à SL.</li>
+      <li>Groupe 2: Acquisition de la langue. <br> Langue supplémentaire, prise aux niveaux suivants: Langue B (SL ou HL) ou Langue ab initio (SL uniquement). Le latin et le grec classique sont également proposés et peuvent être suivis chez SL ou HL. Suite au remplacement de l'option Langue A2 par l'offre du groupe 1 Langue et littérature pour les cours débutant à l'été 2011, le programme de la langue B a été modifié: les cours sont désormais plus rigoureux et chez HL, l'étude obligatoire de deux œuvres de littérature (bien que ce soit pour la compréhension plutôt que l'analyse et est uniquement évaluée par le biais de travaux de cours). En outre, les étudiants en langue seconde peuvent étudier l'un des textes en remplacement des sujets optionnels.</li>
+      <li>Groupe 3: Individus et sociétés. <br> Cours de sciences humaines et sociales proposés à SL et HL: gestion des affaires, économie, géographie, histoire, technologies de l'information dans une société globale (ITGS), philosophie, psychologie et anthropologie sociale et culturelle et la politique globale. Les cours World Religions et Interdisciplinary Environmental Systems and Societies sont également proposés par SL.</li>
+     <li>Groupe 4: Sciences expérimentales. <br> Cinq cours sont proposés aux niveaux SL et HL: chimie, biologie, physique, technologie de la conception et informatique. Le cours Sport, exercice et sciences de la santé et les cours interdisciplinaires Systèmes et sociétés de l’environnement et Nature de la science sont uniquement proposés par SL.</li>
+      <li>Groupe 5: Mathématiques. <br> Les cours proposés sont, par ordre de difficulté croissante, les suivants: Études mathématiques, Mathématiques SL et HL et Mathématiques avancées, HL. Les cours au choix en informatique ont été transférés du groupe 4 à partir du premier examen en 2014. En 2019, des modifications majeures du programme de mathématiques de l'IB vont supprimer tous les SL et HL mathématiques antérieurs et les remplacer par Mathématiques: applications et interprétation, SL et HL. et Mathématiques: Analyses et approches SL et HL, avec Mathématiques: Applications conçues pour être similaires aux études mathématiques et Mathématiques: Analyses similaires à la mathématique, les mathématiques subséquentes étant totalement abandonnées.</li>
+    <li> Groupe 6: Les arts. <br> Cours offerts à SL et à HL: danse, langues étrangères, musique, théâtre, arts visuels et cinéma. Au lieu de suivre un cours du groupe 6, les étudiants peuvent choisir de suivre un cours supplémentaire parmi les groupes 1 à 4, ou bien un cours complémentaire de mathématiques HL (s'ils étudient déjà les mathématiques HL), un cours d'informatique du groupe 4 ou un cours approuvé à l'école. par IB. Le sujet interdisciplinaire Littérature et performance est également proposé, même si, actuellement, il n’existe qu’à SL..</li>
+      <li> Ce programme est un moyen pour les éducateurs et les étudiants d’avoir une meilleure éducation et d’être plus prospère dans la vie. sans ce programme, de nombreux étudiants n'auraient pas les mêmes compétences que maintenant.
     </ol>
       <fieldset>
-    <legend>After reading this page do you feel as if you are ready for IB?  </legend>
+    <legend>Apres avoir lus les informations precedentes, vous sentez vous pres pour l' IB?  </legend>
 <div id="radioCheck">
 
 <form action="/action_page.php">
-  <label for="bad">yes</label>
+  <label for="bad">oui</label>
   <input type="radio" name="bad"><br>
-  <label for="good">no</label>
+  <label for="good">non</label>
   <input type="radio" name="good"><br>
   <input type="radio" name="gender" id="other"><br><br>
   
