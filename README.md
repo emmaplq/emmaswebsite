@@ -1,44 +1,11 @@
 <!DOCTYPE html>
 <head><title>IB Program</title></head>
-<style>
-  body{
-  background-color:#C0C0C0;}
-  li:hover{
-  font-size:125%; }
-  li{
-    color:#0880FF;
-  }
-  h1{
-    color:#0880FF;
-  }
-  h2{
-  color:#FF3408;
-  }
-  h3{
-    color:#0880FF;
-  }
-  legend{
-    color:#FF3408
-  }
-  .ib:hover{
-  animation:book-open 5s forwards}
-  @keyframes book-open{
-    from{
-    width:300px;
-     height:300px;
-    }
-    to{
-    width:500px;
-     height:500px;
-    }
-  }
-</style>
   <body><center>
     <h1>International Baccalaureate</h1>
    <h2> <a href="https://www.ibo.org/programmes/">Click Here for The IB Website</a></h2><br>
     <img class="ib" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_z5oaqYl6TO6xhDadkQIYzwlyZ3dPbsOLglDzu5-QASK89vY&s" width="200px" height="200px"><br><ficaption>International Baccalaureate Logo</figcaption>
     <h3>More than 5,000 schools so far have chosen to teach International Baccalaureate® (IB) programmes,<br> with their unique academic rigour and their emphasis on students’ personal development.<br> Those schools employ over 70,000 educators, teaching more than one million students worldwide. </h3>
-  <br><h2><a href="https://www.shoreregional.org/domain/23">For More Information</a></h2><br><iframe width="560" height="315" src="https://www.youtube.com/embed/V5zuiMjbKsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> for more information</iframe></center>   <br><h2>Requirements to have an IB Diploma:</h2> 
+  <br><h2><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.imgur.com%2FYMSm7ZH.jpg&imgrefurl=https%3A%2F%2Fimgur.com%2Fgallery%2FqLrFm&docid=UnM94PspuhYvrM&tbnid=NVhepjORtljvNM%3A&vet=10ahUKEwj16MXqnuvlAhXkmq0KHfvlBkEQMwhKKAwwDA..i&w=480&h=482&safe=strict&client=safari&bih=726&biw=1433&q=meme%20on%20ib&ved=0ahUKEwj16MXqnuvlAhXkmq0KHfvlBkEQMwhKKAwwDA&iact=mrc&uact=8">For More Information</a></h2><br><iframe width="560" height="315" src="https://www.youtube.com/embed/V5zuiMjbKsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> for more information</iframe></center>   <br><h2>Requirements to have an IB Diploma:</h2> 
     <ul>
    <li>Candidates must write an research paper of up to 4,000 words in a subject from the list of approved subjects.</li>
     <li>TOK is the only course that all diploma candidates are required to take if they want to recieve their diploma.</li>
